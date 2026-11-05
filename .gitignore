@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Arquivo de entrega
+*.zip

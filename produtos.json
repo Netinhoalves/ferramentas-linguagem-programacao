@@ -1,0 +1,6 @@
+[
+    {"codigo": "P01", "nome": "Mouse", "preco": 89.90, "estoque": 15},
+    {"codigo": "P02", "nome": "Teclado", "preco": 149.50, "estoque": 0},
+    {"codigo": "P03", "nome": "Monitor", "preco": 899.00, "estoque": 4},
+    {"codigo": "P04", "nome": "Headset", "preco": 210.00, "estoque": 7}
+]
